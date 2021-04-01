@@ -1,10 +1,7 @@
 body {
     margin: 0;
-    
-     text-align: center;
-     color: #40514E;
-    
-
+    text-align: center;
+    color: #40514E;  
 }
 
 h1{
@@ -29,11 +26,11 @@ hr {
      padding-top: 100px;
      background-color: #eaf6f6;
  }
- .middle-container {
+ 
+.middle-container {
      width: 30%;
      margin: 100px auto;
  }
-
  
  .top-cloud{
      position: absolute;
@@ -57,7 +54,8 @@ hr {
      float: left;
      margin-right: 10px;
  }
- .skill-img2 {
+
+.skill-img2 {
      width:25%;
     float: right;
     margin-left: 10px;
